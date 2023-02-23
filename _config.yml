@@ -107,3 +107,23 @@ deploy:
   repo: git@github.com:SuSWhW/Amemei.github.io-reading.git
   branch: gh-pages
   ignore_hidden: false
+
+# Markdown config
+markdown_it_plus:
+  render:
+    html: true						
+    xhtmlOut: false
+    breaks: true
+    linkify: true
+    typographer: false
+  plugins:
+    - markdown-it-sub
+    - markdown-it-sup
+    - markdown-it-footnote
+  anchors:	
+    level: 2
+    collisionSuffix: 'v'
+    permalink: true
+    permalinkClass: header-anchor
+    permalinkSide: 'left'
+    permalinkSymbol: ¶
