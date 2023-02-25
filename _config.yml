@@ -115,11 +115,12 @@ markdown_it_plus:
     xhtmlOut: false
     breaks: true
     linkify: true
-    typographer: false
+    typographer: true
+    quotes:
   plugins:
-    - markdown-it-sub
-    - markdown-it-sup
-    - markdown-it-footnote
+  - markdown-it-sub
+  - markdown-it-sup
+  - markdown-it-footnote
   anchors:	
     level: 2
     collisionSuffix: 'v'
