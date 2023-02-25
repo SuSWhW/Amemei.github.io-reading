@@ -16,3 +16,8 @@
 ## 本子
 
 * [彼女は私を丸呑みしたい](/Amemei.github.io-reading/本子/彼女は私を丸呑みしたい)
+* [紧扣的星星-傍晚的烟花](/Amemei.github.io-reading/本子/紧扣的星星-傍晚的烟花)
+* [紧扣的星星-湿透的校园](/Amemei.github.io-reading/本子/紧扣的星星-湿透的校园)
+* [紧扣的星星-危险的前辈](/Amemei.github.io-reading/本子/紧扣的星星-危险的前辈)
+* [紧扣的星星-夏季的尾声](/Amemei.github.io-reading/本子/紧扣的星星-夏季的尾声)
+* [紧扣的星星-使用延迟（？](/Amemei.github.io-reading/本子/紧扣的星星-使用延迟（？)
