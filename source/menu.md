@@ -21,3 +21,4 @@
 * [紧扣的星星-危险的前辈](/Amemei.github.io-reading/本子/紧扣的星星-危险的前辈)
 * [紧扣的星星-夏季的尾声](/Amemei.github.io-reading/本子/紧扣的星星-夏季的尾声)
 * [紧扣的星星-使用延迟（？](/Amemei.github.io-reading/本子/紧扣的星星-使用延迟（？)
+* [血姬夜交](/Amemei.github.io-reading/本子/血姬夜交)
